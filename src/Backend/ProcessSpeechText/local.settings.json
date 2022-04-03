@@ -1,0 +1,16 @@
+{
+  "ASPNETCORE_ENVIRONMENT": "Development",
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "SettingsFx": {
+    "SubscritionKey": "YouSubscriptionKey",
+    "Region": "YourRegion"
+  },
+  "ApplicationInsights": {
+    "InstrumentationKey": ""
+  },
+  "StorageAccountConnectionString": ""
+}
